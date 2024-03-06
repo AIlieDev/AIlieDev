@@ -1,7 +1,7 @@
-👋 Hola soy Alexandru ilie "\n"
-👀 Estoy interesado en crecer como desarrollador
-🌱 En estos momentos estoy aprendiendo react y nodejs 
-📫 Para contactar conmigo ilie.Alexandru010@gmail.com
+👋 Hola soy Alexandru ilie  
+👀 Estoy interesado en crecer como desarrollador  
+🌱 En estos momentos estoy aprendiendo react y nodejs  
+📫 Para contactar conmigo ilie.Alexandru010@gmail.com  
 
 
 <!---
